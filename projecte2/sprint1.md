@@ -4,8 +4,13 @@ title: "Sprint 1.Instal·lació i Configuració de Windows"
 permalink: projecte2/sprint1/
 ---
 
-## Prova
+## Instalacio del Sistema Operatiu
 
-### sub
+### Creacio de la mv
 
-gdgdkd
+jjj
+
+
+## Instalacio del SO
+
+jjj
