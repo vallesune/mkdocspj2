@@ -17,7 +17,7 @@ Li afegim el SO de Windows 10 i entrem
 <img width="689" height="376" alt="Captura de pantalla de 2026-04-07 14-00-44" src="https://github.com/user-attachments/assets/cacf7026-117f-4ad1-8494-d109df157446" />
 
 
-## Instalacio del SO
+### Instalacio del SO
 
 Instalem ara
 
@@ -40,6 +40,26 @@ Deixem que s'instali
 
 
 Un cop acaba es reinicia i ja estem dins
+
+<img width="1023" height="833" alt="image" src="https://github.com/user-attachments/assets/5396cbf3-dba0-48e8-bb5c-ade9abaf0c38" />
+
+
+
+## Punts de restauracio
+
+### Creacio del punt de restauracio
+
+jjj
+
+### Modificacions al sistema
+
+jjj
+
+
+
+### Recuperacio del punt anterior
+
+jjj
 
 
 
