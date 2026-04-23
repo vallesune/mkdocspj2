@@ -44,9 +44,11 @@ Repetim el proces en l'altra mitad del disc
 
 <img width="502" height="395" alt="Captura de pantalla de 2026-04-16 11-41-11" src="https://github.com/user-attachments/assets/bf2ec1be-30a3-4ba1-ba6a-30e29a7f2dff" />
 
+
 Li assignem el tipo NTFS i el nom Dades
 
 <img width="502" height="395" alt="Captura de pantalla de 2026-04-16 11-41-27" src="https://github.com/user-attachments/assets/8c4cbfa9-0a02-4770-82e7-145d052b46eb" />
+
 
 S'ha creat correcte
 
@@ -56,8 +58,20 @@ Des de la cmd disposem de "diskpart" i podem executar list disk per comprovar el
 
 <img width="688" height="271" alt="Captura de pantalla de 2026-04-16 11-43-38" src="https://github.com/user-attachments/assets/b6a73a62-f99e-47d8-8be6-607c30ffb474" />
 
+
+
+
 ## Quotes d'usuari
 
-jjj
+Activem les quotes de disc per la particio Dades i li assignem de limit 300mb 
+
+<img width="386" height="500" alt="Captura de pantalla de 2026-04-23 10-44-36" src="https://github.com/user-attachments/assets/711845c2-2111-4e37-b9c1-339bc4846a31" />
+
+<img width="384" height="131" alt="Captura de pantalla de 2026-04-23 10-45-19" src="https://github.com/user-attachments/assets/87979481-480d-4e15-a5e1-494eeed78a7a" />
 
 
+Des de configuracio, usuaris, podem afegir dos usuaris a nivell local
+
+<img width="665" height="642" alt="Captura de pantalla de 2026-04-23 11-54-50" src="https://github.com/user-attachments/assets/94c15210-172f-41ce-9d42-5118c9eb0c6d" />
+
+<img width="433" height="343" alt="Captura de pantalla de 2026-04-23 11-56-03" src="https://github.com/user-attachments/assets/e12efe71-7734-4f2b-86c0-a405ba0a98f8" />
