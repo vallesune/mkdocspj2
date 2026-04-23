@@ -6,8 +6,6 @@ permalink: projecte2/sprint2/
 
 ## Preparació del Sistema
 
-### Sub
-
 Afegirem un disc nou a la mv tancada
 
 <img width="510" height="289" alt="Captura de pantalla de 2026-04-16 10-33-21" src="https://github.com/user-attachments/assets/ded2e464-e430-498e-812e-bb7e9be4a351" />
@@ -58,5 +56,8 @@ Des de la cmd disposem de "diskpart" i podem executar list disk per comprovar el
 
 <img width="688" height="271" alt="Captura de pantalla de 2026-04-16 11-43-38" src="https://github.com/user-attachments/assets/b6a73a62-f99e-47d8-8be6-607c30ffb474" />
 
+## Quotes d'usuari
+
+jjj
 
 
