@@ -95,5 +95,20 @@ Veiem que s'ha creat i des de propietats veiem que formen part els dos users
 <img width="538" height="529" alt="image" src="https://github.com/user-attachments/assets/0188440a-1b55-49ac-abc3-0ffba2c69d1a" />
 
 
+Comprovem que els limits de cuota funcionen afegint fitxers de prova a dades
+capt
 
 
+## Scripts de còpia i automatització
+
+Afegim un nou disc a la mv
+
+<img width="781" height="390" alt="image" src="https://github.com/user-attachments/assets/4bda8e13-20df-4eea-91d0-154223e99e2c" />
+
+
+El formatem igual que anteriorment en NTFS i en nom "Backups"
+capt
+
+
+Dins de backups creem la carpeta "CopiesUsuaris"
+capt
