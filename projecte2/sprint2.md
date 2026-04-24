@@ -61,7 +61,7 @@ Des de la cmd disposem de "diskpart" i podem executar list disk per comprovar el
 
 
 
-## Quotes d'usuari
+## Quotes de disc i usuari
 
 Activem les quotes de disc per la particio Dades i li assignem de limit 300mb 
 
@@ -70,8 +70,30 @@ Activem les quotes de disc per la particio Dades i li assignem de limit 300mb
 <img width="384" height="131" alt="Captura de pantalla de 2026-04-23 10-45-19" src="https://github.com/user-attachments/assets/87979481-480d-4e15-a5e1-494eeed78a7a" />
 
 
-Des de configuracio, usuaris, podem afegir dos usuaris a nivell local
+Des de administracio d'equips, usuaris i grups, usuaris, podem afegir dos usuaris a nivell local
 
-<img width="665" height="642" alt="Captura de pantalla de 2026-04-23 11-54-50" src="https://github.com/user-attachments/assets/94c15210-172f-41ce-9d42-5118c9eb0c6d" />
+<img width="671" height="347" alt="image" src="https://github.com/user-attachments/assets/263a219d-37de-451d-bee2-a6307c4c3ea6" />
 
-<img width="433" height="343" alt="Captura de pantalla de 2026-04-23 11-56-03" src="https://github.com/user-attachments/assets/e12efe71-7734-4f2b-86c0-a405ba0a98f8" />
+<img width="430" height="387" alt="image" src="https://github.com/user-attachments/assets/6d24f3c1-38b4-410e-82ac-488aa08897b9" />
+
+<img width="430" height="387" alt="image" src="https://github.com/user-attachments/assets/ad9156d4-6682-4cf3-82a5-d3f46ad60100" />
+
+<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/f15b1477-aae4-445f-90bf-cdeb9ab83826" />
+
+
+Igualment des de administracio d'equips, creem un grup nou anomenat Limitats i afegim els dos users que acabem de crear
+
+<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/8db08690-69c8-437f-9b9e-64359802562d" />
+
+<img width="437" height="400" alt="image" src="https://github.com/user-attachments/assets/c73efe18-cabc-4a44-97c6-60a5a2c937ba" />
+
+
+Veiem que s'ha creat i des de propietats veiem que formen part els dos users
+
+<img width="938" height="544" alt="image" src="https://github.com/user-attachments/assets/0081761f-b02e-4bc8-a94c-a85c8592660a" />
+
+<img width="538" height="529" alt="image" src="https://github.com/user-attachments/assets/0188440a-1b55-49ac-abc3-0ffba2c69d1a" />
+
+
+
+
