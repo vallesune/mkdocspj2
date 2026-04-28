@@ -128,4 +128,83 @@ Les llicencies mes comuns i barates que podem trobar en una busqueda rapida son 
 
 ## Gestors d'arrencada
 
-jj
+Des del cmd executem la comanda "bcdedit"
+
+<img width="588" height="554" alt="Captura de pantalla de 2026-04-14 12-29-45" src="https://github.com/user-attachments/assets/14f37b96-f670-4ddf-9a59-c6661730d462" />
+
+
+jjj
+
+
+
+## Xarxa basica
+
+La maquina virtual esta configurada en Xarxa NAT
+
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/be4a0299-4965-4bbd-b26b-d39c0610fd14" />
+
+
+Consultem la ip en ipconfig que per defecte ve en dchp
+
+<img width="579" height="225" alt="Captura de pantalla de 2026-04-14 12-57-30" src="https://github.com/user-attachments/assets/4e1c8317-ab4c-4a31-adb1-4135d858c2ba" />
+
+
+Per modificarla a fixa anem a configuracio de l'adaptador
+
+<img width="405" height="457" alt="Captura de pantalla de 2026-04-14 13-02-48" src="https://github.com/user-attachments/assets/8fe4adc4-ec39-49c3-9c94-362fe9789a6d" />
+
+<img width="575" height="225" alt="Captura de pantalla de 2026-04-14 13-03-30" src="https://github.com/user-attachments/assets/822f40f9-f72e-4c0f-97fe-08c591f89888" />
+
+
+Fem algun ping per comprovar que tenim conexio
+
+
+
+## Comandes generals
+
+Cmd es una terminal de windows pensada per comandes mes basiques en canvi powershell es mes potent i te opcions d'automatitzacio 
+
+Obrim cmd per provar algunes comandes basiques:
+
+dir
+cd
+mkdir prova
+echo hola > fitxer.txt
+del fitxer.txt
+
+Comandes del sistema
+
+tasklist(explicar)
+
+taskkill /IM notepad.exe /F (tancar proces)
+
+systeminfo (explicar)
+
+hostname
+whoami
+
+Comandes de xarxa
+
+ipconfig (explicar)
+ping google.com
+netstat -an
+
+Comandes interesants
+
+tree
+cls(netejar pantalla)
+help
+shutdown /s /t 0(apagar l’equip)
+
+
+## Instalacio de programari
+
+Navegador (seguint wizard)
+
+
+Programa del microsoft store
+
+
+Desistalar prog desde configuracio-aplicacions i verfi
+
+
