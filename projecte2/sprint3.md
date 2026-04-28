@@ -23,5 +23,34 @@ es reinicia el sistema i al iniciar ja estem dins del domini
 
 <img width="782" height="571" alt="image" src="https://github.com/user-attachments/assets/b8309e2f-d6c7-40a6-bfea-d37b1d21537d" />
 
+creem usuari de domini dins la uo 
 
+<img width="543" height="412" alt="image" src="https://github.com/user-attachments/assets/4ee2e1b8-ce29-44ba-b34a-5ddfec8e0b45" />
+
+<img width="543" height="412" alt="image" src="https://github.com/user-attachments/assets/d68d8e1a-4aea-44bf-965a-c68de900aa86" />
+
+
+Desde el client
+
+<img width="583" height="420" alt="image" src="https://github.com/user-attachments/assets/22412211-91d2-4163-973a-db7901b1201c" />
+
+
+Canviem el dns a la ip del servidor
+
+<img width="393" height="452" alt="image" src="https://github.com/user-attachments/assets/2d6761ce-11f0-4f37-8590-8a9aaa9678a4" />
+
+
+Canviem domini
+
+<img width="444" height="512" alt="image" src="https://github.com/user-attachments/assets/4f50a07d-bd66-4ee3-be96-c323602b6e9e" />
+
+
+<img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/aa6e4c35-3873-4a97-be71-a668ae8ff50d" />
+
+
+reiniciem equip i accedim en l'user creat
+
+<img width="522" height="579" alt="image" src="https://github.com/user-attachments/assets/fca29dab-b611-4543-9a8e-004e4c6e724f" />
+
+<img width="550" height="128" alt="image" src="https://github.com/user-attachments/assets/ca6783a6-c4e1-42bd-bbf8-3b98ee3bbbcc" />
 
