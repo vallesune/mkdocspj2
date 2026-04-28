@@ -107,8 +107,40 @@ Afegim un nou disc a la mv
 
 
 El formatem igual que anteriorment en NTFS i en nom "Backups"
-capt
+
+<img width="631" height="112" alt="image" src="https://github.com/user-attachments/assets/3c32b731-a206-4296-a9e8-29cfaa034121" />
+
+<img width="519" height="416" alt="image" src="https://github.com/user-attachments/assets/00c891a6-7aa5-40eb-a1af-20e6cc48f72b" />
+
+<img width="485" height="103" alt="image" src="https://github.com/user-attachments/assets/1fb4f9af-7fd9-4e91-a452-7352c2efa39f" />
 
 
 Dins de backups creem la carpeta "CopiesUsuaris"
-capt
+
+<img width="573" height="391" alt="image" src="https://github.com/user-attachments/assets/cf89728c-e02d-4fa2-b59a-cd6d3588730d" />
+
+<img width="545" height="122" alt="image" src="https://github.com/user-attachments/assets/bb267ffe-68cf-4436-a092-dafcf234539b" />
+
+
+Creem un script .bat per copiar els Users del disc C, l'original, a la carpeta copies del disc F que acabem de crear 
+
+<img width="546" height="253" alt="image" src="https://github.com/user-attachments/assets/c8b0f15b-9a90-4987-a27f-ccc57a94fdd1" />
+
+
+
+Obrim gpedit.msc, l'editor de directives de grup local i a configuracio d'usuari, configuracio de windows,scripts modificarem el d'inici de sessio
+
+<img width="670" height="293" alt="image" src="https://github.com/user-attachments/assets/b2d4a985-be3d-4a6b-94d3-3be0e08788a1" />
+
+
+Afegim un parametre nou
+
+<img width="593" height="507" alt="image" src="https://github.com/user-attachments/assets/68983909-45a9-44a3-bf4f-f01b84a03854" />
+
+
+Busquem l'script que acabem de crear i l'afegim per que s'execute sempre al iniciar sessio
+
+<img width="450" height="306" alt="image" src="https://github.com/user-attachments/assets/31be7c7f-9ca8-40ea-9b33-fd63d906a68b" />
+
+
+
