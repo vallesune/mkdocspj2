@@ -132,8 +132,12 @@ Des del cmd executem la comanda "bcdedit"
 
 <img width="588" height="554" alt="Captura de pantalla de 2026-04-14 12-29-45" src="https://github.com/user-attachments/assets/14f37b96-f670-4ddf-9a59-c6661730d462" />
 
+A partir del resultat podem definir dos blocs, primer l'administrador d'arranc (bootmrg) i despres el carregador d'arranc (bootloader)
 
-jjj
+De l'administrador d'arranc podem definir el default, que esta en "current" i indica que la configuracio per defecte es la que s'utilitza per arrencar el sistema
+El timeout esta en 30 segons i indica el temps d'espera abans d'arrencar automaticament el sistema predeterminat
+
+Del carregador d'arranc podem
 
 
 
