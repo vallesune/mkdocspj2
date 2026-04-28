@@ -49,15 +49,54 @@ Un cop acaba es reinicia i ja estem dins
 
 ### Creacio del punt de restauracio
 
-jjj
+Des del buscador entrem a "punts de restauracio" 
+
+<img width="418" height="486" alt="Captura de pantalla de 2026-04-10 12-03-36" src="https://github.com/user-attachments/assets/39330e3e-a7cd-4e9e-ac1c-8f437b930c6d" />
+
+
+Activem la proteccio al disc C:
+
+<img width="418" height="486" alt="Captura de pantalla de 2026-04-10 12-05-15" src="https://github.com/user-attachments/assets/b2ea21ad-3ce4-4618-9410-c579f54dc2dd" />
+
+
+Creem un nou punt de restauracio
+
+<img width="418" height="486" alt="Captura de pantalla de 2026-04-10 12-05-50" src="https://github.com/user-attachments/assets/627a41e1-a3ce-436f-95c6-452283cc3105" />
+
+<img width="407" height="227" alt="Captura de pantalla de 2026-04-10 12-06-34" src="https://github.com/user-attachments/assets/f3ada806-16ce-4a61-a70a-f3aec95d7d88" />
+
+<img width="413" height="395" alt="Captura de pantalla de 2026-04-10 12-07-08" src="https://github.com/user-attachments/assets/52c0ab8e-1f68-4602-8476-411d6d5a613a" />
+
+
 
 ### Modificacions al sistema
 
-jjj
+Creem alguns fitxers de prova i instalem un programa per comprovar que la restauracio funciona
+
+<img width="790" height="330" alt="Captura de pantalla de 2026-04-10 12-10-17" src="https://github.com/user-attachments/assets/3668fa08-f40b-43bb-a5f3-ae3d54b90a6e" />
+
+<img width="1023" height="833" alt="Captura de pantalla de 2026-04-10 12-18-34" src="https://github.com/user-attachments/assets/42ad02d4-025a-4a86-a986-7478e8714d64" />
+
 
 ### Recuperacio del punt anterior
 
-jjj
+Tornem al punt de restauracio i triem restaurar sistema
+
+<img width="415" height="495" alt="Captura de pantalla de 2026-04-10 12-19-30" src="https://github.com/user-attachments/assets/119d990f-a308-4ba2-a985-5e170fa6c974" />
+
+
+Triem el punt que acabem de crear
+
+<img width="566" height="458" alt="Captura de pantalla de 2026-04-10 12-20-33" src="https://github.com/user-attachments/assets/e79252e4-572e-402f-82af-0cd9a9442cc1" />
+
+
+Es començara a restaurar i es reiniciara l'equip
+
+<img width="625" height="494" alt="Captura de pantalla de 2026-04-10 12-21-32" src="https://github.com/user-attachments/assets/5b88ec8a-02e6-4a5b-80e8-868b316a09f0" />
+
+
+Podem comprovar que s'han eliminat els fitxers i el programa
+
 
 
 
