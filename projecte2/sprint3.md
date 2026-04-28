@@ -19,4 +19,9 @@ configurar el active directori crean un bosc
 
 <img width="782" height="571" alt="image" src="https://github.com/user-attachments/assets/6195ff0e-09cb-406e-875e-8fdec0763396" />
 
+es reinicia el sistema i al iniciar ja estem dins del domini
+
+<img width="782" height="571" alt="image" src="https://github.com/user-attachments/assets/b8309e2f-d6c7-40a6-bfea-d37b1d21537d" />
+
+
 
