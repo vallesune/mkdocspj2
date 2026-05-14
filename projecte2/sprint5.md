@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sprint 5.Titol"
+title: "Sprint 5.Monitoratge, Auditories i Programari Client/Servidor"
 permalink: projecte2/sprint5/
 ---
 
