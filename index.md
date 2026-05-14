@@ -11,5 +11,6 @@ El contingut está baix llicencia [Creative Commons BY 4.0 ES](LICENSE.md).
 
 ### [Sprint 1.Instal·lació i Configuració de Windows](projecte2/sprint1.md)  
 ### [Sprint 2.Instal·lació, Configuració de Programari de Base i Gestió de Fitxers ](projecte2/sprint2.md)  
-### [Sprint 3.Titol](projecte2/sprint3.md)   
-### [Sprint 5.Titol](projecte2/sprint5.md)  
+### [Sprint 3.Administració de Dominis i Seguretat](projecte2/sprint3.md) 
+### [Sprint 4.Configuració del Programari de Base i Sistemes d’Emmagatzematge en Windows ](projecte2/sprint4.md) 
+### [Sprint 5.Monitoratge, Auditories i Programari Client/Servidor](projecte2/sprint5.md)  
