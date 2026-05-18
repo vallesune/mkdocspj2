@@ -59,3 +59,4 @@ Creem o copiem un par de documents tambe una carpeta i comprovem que son accessi
 <img width="882" height="591" alt="Captura de pantalla de 2026-05-14 14-17-23" src="https://github.com/user-attachments/assets/53fdfac9-3616-43cb-aa38-5ceaa417ef89" />
 
 
+## Simulació de fallada
