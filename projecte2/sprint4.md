@@ -53,3 +53,9 @@ S'ha creat un unic volum per els tres discos
 ## Proves
 
 Creem o copiem un par de documents tambe una carpeta i comprovem que son accessibles
+
+<img width="620" height="176" alt="Captura de pantalla de 2026-05-14 14-17-03" src="https://github.com/user-attachments/assets/3def62ca-f773-4343-9749-3dd4c9287128" />
+
+<img width="882" height="591" alt="Captura de pantalla de 2026-05-14 14-17-23" src="https://github.com/user-attachments/assets/53fdfac9-3616-43cb-aa38-5ceaa417ef89" />
+
+
