@@ -4,8 +4,9 @@ title: "Sprint 5.Monitoratge, Auditories i Programari Client/Servidor"
 permalink: projecte2/sprint5/
 ---
 
-## jjj
+## Monitorització 
 
-### kkkk
+### Proves
 
-jjjj
+Obrim l'administrador de tasques en Ctrl-Shift-Esc
+
