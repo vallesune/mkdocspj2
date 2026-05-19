@@ -161,4 +161,14 @@ Pasem el mateix resultat a un fitxer redireccionant en un " > /directori/fitxer.
 <img width="545" height="53" alt="image" src="https://github.com/user-attachments/assets/92ecb48b-409b-4cec-8cbe-e43cdef17e32" />
 
 
+Si l'obrim i l'analitzem podem reconeixer alguns processos tipics de Windows com l'explorer, el One drive o altres
+
+<img width="736" height="533" alt="image" src="https://github.com/user-attachments/assets/639379e7-c432-41cd-8ebe-2898c2688a10" />
+
+
+### Identifiquem processos precindibles
+
+Alguns dels processos que hi ha funcionant son programes com one drive, teams, skype que no son prescindibles per que el sistema funcioni i podem eliminiarlos, pero primer els mostrarem en una taula amb la justificacio que correspon
+
+
 
