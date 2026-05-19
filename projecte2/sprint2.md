@@ -144,3 +144,21 @@ Busquem l'script que acabem de crear i l'afegim per que s'execute sempre al inic
 
 
 
+
+
+
+## Gestio de processos i serveis
+
+### Llistar procesos actius
+
+Iniciem sessio com alumne1 local i des d'una terminal cmd executem "tasklist" que ens permet mostrar els processos que estan actius al moment
+
+<img width="672" height="606" alt="image" src="https://github.com/user-attachments/assets/36c8ada7-db38-4679-95e1-03c0b045909e" />
+
+
+Pasem el mateix resultat a un fitxer redireccionant en un " > /directori/fitxer.txt"
+
+<img width="545" height="53" alt="image" src="https://github.com/user-attachments/assets/92ecb48b-409b-4cec-8cbe-e43cdef17e32" />
+
+
+
