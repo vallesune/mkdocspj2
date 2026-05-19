@@ -60,3 +60,48 @@ Creem o copiem un par de documents tambe una carpeta i comprovem que son accessi
 
 
 ## Simulació de fallada
+
+Per simular una fallada en el raid començarem per deixar "inactiu" un dels discos des de l'administrador de discos
+
+<img width="424" height="372" alt="image" src="https://github.com/user-attachments/assets/bca07fff-6f4d-42a7-9beb-310f9bb2aef3" />
+
+
+Aixo ens deixara el raid encara funcionant, podem comprovar que podem seguir accedint al contingut
+
+<img width="597" height="140" alt="image" src="https://github.com/user-attachments/assets/dbb7b439-51e8-48c0-a7dd-cc5532c25141" />
+
+
+En canvi si ara "inactivem" un segon disc el raid si fallara ja que nomes permet un disc de perduda
+
+<img width="508" height="166" alt="image" src="https://github.com/user-attachments/assets/f752a2e2-f56a-4521-9ffa-6d9ac35d306a" />
+
+
+Nomes tenim un "en pantalla"
+
+<img width="849" height="308" alt="image" src="https://github.com/user-attachments/assets/77f9ee24-ee71-4951-ba2e-7cb6932256c5" />
+
+
+Ja no podem accedir al contingut
+
+<img width="513" height="114" alt="image" src="https://github.com/user-attachments/assets/4c6673fb-6e8c-4665-b664-9559fb543d54" />
+
+
+## Recuperacio del raid
+
+Per recuperar el raid tornem al administrador de discs i reactivem un dels discs
+
+<img width="442" height="122" alt="image" src="https://github.com/user-attachments/assets/0b2f3c42-ff6f-4f5c-82c2-d100fe0f8dc3" />
+
+<img width="804" height="307" alt="image" src="https://github.com/user-attachments/assets/c6b58fa0-3abb-4ca2-a7e1-794709636570" />
+
+
+Hem recuperat el raid i el contingut intacte
+
+<img width="582" height="164" alt="image" src="https://github.com/user-attachments/assets/00eefd4d-6123-4683-9f57-a67784042221" />
+
+<img width="445" height="142" alt="image" src="https://github.com/user-attachments/assets/d4055122-d4bd-43ef-abe7-1fdebd3625b5" />
+
+
+## Conclusió
+
+El Raid 5 
