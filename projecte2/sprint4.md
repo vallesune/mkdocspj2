@@ -104,4 +104,4 @@ Hem recuperat el raid i el contingut intacte
 
 ## Conclusió
 
-El Raid 5 
+En conclusió, el RAID 5 és una configuració que distribueix la paritat entre tots els discos per oferir redundància i millorar la disponibilitat de les dades. Aquest sistema pot continuar funcionant encara que falli un dels discos, però no substitueix una còpia de seguretat. A més, si fallen dos discos al mateix temps, el RAID 5 deixa de funcionar i es poden perdre les dades.
